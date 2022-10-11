@@ -1,0 +1,3 @@
+# Instagram_Bot
+
+This Python script with Selenium WebDriver allows you to automate Social Networks tasks such as login, following, posting etc...
